@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 e530e71cf8861464f8b020247f95467d4b94c6e3 Valerion <profmaker3@gmail.com> 1515583829 +0200	clone: from https://github.com/kc5nra/obs-browser.git
+e530e71cf8861464f8b020247f95467d4b94c6e3 6f1d4588b56bd328f6e6da1ae27c943322aa634f Valerion <profmaker3@gmail.com> 1515675211 +0200	checkout: moving from master to build_attemp
+6f1d4588b56bd328f6e6da1ae27c943322aa634f 542bf4cdb9b281cd7d05c9e42c2a87ef7949d535 Valerion <profmaker3@gmail.com> 1515683335 +0200	checkout: moving from build_attemp to head_test
+542bf4cdb9b281cd7d05c9e42c2a87ef7949d535 cdced633af7cfbbaa222ae336841c78316090ba4 Valerion <profmaker3@gmail.com> 1516193363 +0200	commit: working stage
+cdced633af7cfbbaa222ae336841c78316090ba4 af16baafde4b7f5857c363e6b7711cfe744c171f Valerion <profmaker3@gmail.com> 1516199993 +0200	commit: comment facade unused
+af16baafde4b7f5857c363e6b7711cfe744c171f 542bf4cdb9b281cd7d05c9e42c2a87ef7949d535 Valerion <profmaker3@gmail.com> 1516200009 +0200	checkout: moving from head_test to browser_init_test
